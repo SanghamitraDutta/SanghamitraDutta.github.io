@@ -2,6 +2,8 @@
 layout: post
 title: Project Benson
 ---
+Using Data Science to Inform Marketing Decisions
+------
 
 **Background**  
 Women Tech Women Yes (WTWY) are faced with 3 key challenges:  
