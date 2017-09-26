@@ -9,7 +9,7 @@ Women Tech Women Yes (WTWY) are faced with 3 key challenges:
   * Acheiving high attendence for the gala they will host in early summer
   * Fund raising for the cause/organization  
 
-And to this end, they wish to leverage insights from MTA Turnstile data for placemnt of their street promotion teams.    
+And to this end, they wish to leverage insights from MTA Turnstile data for placement of their street promotion teams.    
 
 **Our Objective** 
 Provide recommendations to WTWY that ensures the utmost quantity and quality of reach
