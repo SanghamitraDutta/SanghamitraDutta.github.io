@@ -3,8 +3,16 @@ layout: post
 title: Project Benson
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+### Brief Background
+Women Tech Women Yes (WTWY) organization are faced with 3 key challenges:  
+  * Creating awareness for their organization and cause
+  * Acheiving high attendence for the gala they will host in early summer
+  * Fund raising for the cause/organization  
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+And to this end, they wish to leverage insights from MTA Turnstile data for placemnt of their street promotion teams.    
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+**Our Objective** 
+Provide recommendations to WTWY on optimizing their street teams in a manner that ensures the utmost quantity and quality of reach
+
+**Findings**
+
