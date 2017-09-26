@@ -2,8 +2,9 @@
 layout: post
 title: Project Benson
 ---
----
 **Use of Data Science to Inform Marketing Decisions**
+---
+
 
 
 **Background**  
