@@ -11,11 +11,14 @@ Women Tech Women Yes (WTWY) are faced with 3 key challenges:
 
 And to this end, they wish to leverage insights from MTA Turnstile data for placement of their street promotion teams.    
 
-**Our Objective** 
+
+**Our Objective**   
 Provide recommendations to WTWY that ensures the utmost quantity and quality of reach
+
 
 **Assumptions**
 * We looked at the Exit data as we believe that while entrying the station the commuters are not likely to respond to street team querries as they would be in a hurry to board a train
+
 
 **Additional Data Sources Analyzed**
 * **Internal Revenue Service(IRS) Data:** We wanted to target residents in wealthy neighbourhoods of NYC who could donate to the cause and also influence policy making  
