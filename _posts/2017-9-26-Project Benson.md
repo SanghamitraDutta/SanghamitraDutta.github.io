@@ -45,7 +45,7 @@ Neighborhoods with the highest percentage of people in the highest income bracke
  [Table]
  Areas with highest concentration of Tech companies and their nearest stations
  
- **Recommendation**  
+ **Our Recommendation**  
  [Snap of recommendation chart]
  
  Two pronged strategy:
