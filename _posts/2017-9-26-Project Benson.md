@@ -3,7 +3,7 @@ layout: post
 title: Project Benson
 ---
 *Use of Data Science to Inform Marketing Decisions*
-======
+---
 
   
     
@@ -30,10 +30,11 @@ We looked at the Exit data as we believe that while entrying the station the com
 
 
 **Key Findings**  
-I.
+I. 
+
     
-![alt text](https://github.com/SanghamitraDutta/SanghamitraDutta.github.io/blob/master/images/Picture1.png)
-[Pic of inital results Slide 5]
+![alt text](https://github.com/SanghamitraDutta/SanghamitraDutta.github.io/blob/master/images/Picture1.png "Logo Title Text 1")
+  
 Our initial analysis showed very high Exit volumes at major commuter and tourist hubs like Grand Central, Time Square and Penn Station. So we deicided to eliminate these stations to ensure better quality of reach and in turn improve chances of conversion.
 
 II.
