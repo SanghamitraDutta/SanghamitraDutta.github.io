@@ -45,8 +45,9 @@ Neighborhoods with the highest percentage of people in the highest income bracke
  [Table]
  Areas with highest concentration of Tech companies and their nearest stations
  
- **Recommendation**
+ **Recommendation**  
  [Snap of recommendation chart]
+ 
  Two pronged strategy:
  * Mornings people exiting the station are going to work - Focus on higher concentration of tech companies
  * Evenings, people exiting the station are going home - Focus on wealthier neighbourhoods
