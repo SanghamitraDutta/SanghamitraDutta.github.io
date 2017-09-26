@@ -3,7 +3,7 @@ layout: post
 title: Project Benson
 ---
 
-**Brief Background**  
+**Background**  
 Women Tech Women Yes (WTWY) are faced with 3 key challenges:  
   * Creating awareness for their organization and cause
   * Acheiving high attendence for the gala they will host in early summer
