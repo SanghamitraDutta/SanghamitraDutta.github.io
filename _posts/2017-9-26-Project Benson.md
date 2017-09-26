@@ -68,4 +68,3 @@ Neighborhoods with the highest percentage of people in the highest income bracke
  
  
 
-
