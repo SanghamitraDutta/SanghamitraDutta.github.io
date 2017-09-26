@@ -49,8 +49,8 @@ Neighborhoods with the highest percentage of people in the highest income bracke
  [Snap of recommendation chart]
  
  Two pronged strategy:
- * Mornings people exiting the station are going to work - Focus on higher concentration of tech companies
- * Evenings, people exiting the station are going home - Focus on wealthier neighbourhoods
+ 1. Mornings people exiting the station are going to work - Focus on higher concentration of tech companies
+ 2. Evenings, people exiting the station are going home - Focus on wealthier neighbourhoods
  
 
 
