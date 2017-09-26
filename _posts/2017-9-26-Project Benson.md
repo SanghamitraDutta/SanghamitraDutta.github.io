@@ -28,12 +28,15 @@ We looked at the Exit data as we believe that while entrying the station the com
 
 
 **Key Findings**  
-I. 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+I.
+    
+![alt text](https://github.com/SanghamitraDutta/SanghamitraDutta.github.io/blob/master/images/Picture1.png)
 [Pic of inital results Slide 5]
 Our initial analysis showed very high Exit volumes at major commuter and tourist hubs like Grand Central, Time Square and Penn Station. So we deicided to eliminate these stations to ensure better quality of reach and in turn improve chances of conversion.
 
 II.
+  
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 [Pic of Modified list of Stations
 Modified list of top 15 stations 
 
