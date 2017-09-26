@@ -25,7 +25,7 @@ Provide recommendations to WTWY that ensures the utmost quantity and quality of 
 * **NYC Tech Company Addresses:** It was crucial to reach out to tech company employees and therefore we identified areas in the city with concentration of tech companies 
 
 
-**Key Findings**
+**Key Findings**  
 I.
 [Pic of inital results Slide 5]
 Our initial analysis showed very high Exit volumes at major commuter and tourist hubs like Grand Central, Time Square and Penn Station. So we deicided to eliminate these stations to ensure better quality of reach and in turn improve chances of conversion.
