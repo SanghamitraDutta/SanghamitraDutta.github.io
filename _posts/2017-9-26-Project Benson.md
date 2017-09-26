@@ -7,7 +7,7 @@ title: Project Benson
   
     
     
-#### Background  
+### Background  
 Women Tech Women Yes (WTWY) are faced with 3 key challenges:  
   * Creating awareness for their organization and cause
   * Acheiving high attendence for the gala they will host in early summer
@@ -16,20 +16,20 @@ Women Tech Women Yes (WTWY) are faced with 3 key challenges:
 And to this end, they wish to leverage insights from MTA Turnstile data for placement of their street promotion teams.    
 
 
-#### Our Objective  
+### Our Objective  
 Provide recommendations to WTWY that ensures the utmost quantity and quality of reach
 
 
-#### Assumptions
+### Assumptions
 We looked at the Exit data as we believe that while entrying the station the commuters are not likely to respond to street team querries as they would be in a hurry to board a train
 
 
-#### Additional Data Sources Analyzed
+### Additional Data Sources Analyzed
 * **Internal Revenue Service(IRS) Data:** We wanted to target residents in wealthy neighbourhoods of NYC who could donate to the cause and also influence policy making  
 * **NYC Tech Company Addresses:** It was crucial to reach out to tech company employees and therefore we identified areas in the city with concentration of tech companies 
 
 
-#### Key Findings
+### Key Findings
 I. **Top 15 Stations as per No. of Exits**
 
     
@@ -57,7 +57,7 @@ Neighborhoods with the highest percentage of people in the highest income bracke
 
  
  
- #### Our Recommendation
+ ### Our Recommendation
  **Two pronged strategy:**
  1. Mornings people exiting the station are going to work - Focus on higher concentration of tech companies
  2. Evenings, people exiting the station are going home - Focus on wealthier neighbourhoods
