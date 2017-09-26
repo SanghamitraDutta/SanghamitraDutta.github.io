@@ -40,8 +40,7 @@ Our initial analysis showed very high Exit volumes at major commuter and tourist
 II. **Filtered Top 15 Daily Work Commute Stations as per No. of Exits**
   
 ![alt text](https://github.com/SanghamitraDutta/SanghamitraDutta.github.io/blob/master/images/Picture2.png "Logo Title Text 1")
-[Pic of Modified list of Stations
-Modified list of top 15 stations 
+
 
 III. **Neighborhoods Classified by Income Brackets**
   
@@ -58,7 +57,7 @@ Neighborhoods with the highest percentage of people in the highest income bracke
 
  
  
- **Our Recommendation**      
+ ### **Our Recommendation**      
  **Two pronged strategy:**
  1. Mornings people exiting the station are going to work - Focus on higher concentration of tech companies
  2. Evenings, people exiting the station are going home - Focus on wealthier neighbourhoods
