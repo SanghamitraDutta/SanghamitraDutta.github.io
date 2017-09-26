@@ -19,7 +19,7 @@ Provide recommendations to WTWY that ensures the utmost quantity and quality of 
 
 
 **Assumptions**
-* We looked at the Exit data as we believe that while entrying the station the commuters are not likely to respond to street team querries as they would be in a hurry to board a train
+We looked at the Exit data as we believe that while entrying the station the commuters are not likely to respond to street team querries as they would be in a hurry to board a train
 
 
 **Additional Data Sources Analyzed**
@@ -28,7 +28,8 @@ Provide recommendations to WTWY that ensures the utmost quantity and quality of 
 
 
 **Key Findings**  
-I.
+I. 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 [Pic of inital results Slide 5]
 Our initial analysis showed very high Exit volumes at major commuter and tourist hubs like Grand Central, Time Square and Penn Station. So we deicided to eliminate these stations to ensure better quality of reach and in turn improve chances of conversion.
 
