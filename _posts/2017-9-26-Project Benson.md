@@ -2,7 +2,7 @@
 layout: post
 title: Project Benson
 ---
-Using Data Science to Inform Marketing Decisions
+Use of Data Science to Inform Marketing Decisions
 ------
 
 **Background**  
