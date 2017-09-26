@@ -4,8 +4,8 @@ title: Project Benson
 ---
 *Use of Data Science to Inform Marketing Decisions*
 ---
-
   
+    
     
 **Background**  
 Women Tech Women Yes (WTWY) are faced with 3 key challenges:  
@@ -30,36 +30,43 @@ We looked at the Exit data as we believe that while entrying the station the com
 
 
 **Key Findings**  
-I. 
+I. **Top 15 Stations as per No. of Exits**
 
     
 ![alt text](https://github.com/SanghamitraDutta/SanghamitraDutta.github.io/blob/master/images/Picture1.png "Logo Title Text 1")
   
 Our initial analysis showed very high Exit volumes at major commuter and tourist hubs like Grand Central, Time Square and Penn Station. So we deicided to eliminate these stations to ensure better quality of reach and in turn improve chances of conversion.
 
-II.
+II. **Filtered Top 15 Daily Work Commute Stations as per No. of Exits**
   
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/SanghamitraDutta/SanghamitraDutta.github.io/blob/master/images/Picture2.png "Logo Title Text 1")
 [Pic of Modified list of Stations
 Modified list of top 15 stations 
 
-III.
-[Chart of income brackets)
+III. **Neighborhoods Classified by Income Brackets**
+  
+![alt text](https://github.com/SanghamitraDutta/SanghamitraDutta.github.io/blob/master/images/Picture3.png "Logo Title Text 1") 
 Neighborhoods with the highest percentage of people in the highest income bracket:
  * Upper West Side
  * Gramercy/Murray Hill
  * Chelsea
  
- IV.
- [Table]
- Areas with highest concentration of Tech companies and their nearest stations
+ IV.**Areas with highest concentration of Tech companies and their nearest stations**
+   
  
- **Our Recommendation**  
- [Snap of recommendation chart]
+![alt text](https://github.com/SanghamitraDutta/SanghamitraDutta.github.io/blob/master/images/Table.png "Logo Title Text 1") 
+
  
- Two pronged strategy:
+ 
+ **Our Recommendation**      
+ **Two pronged strategy:**
  1. Mornings people exiting the station are going to work - Focus on higher concentration of tech companies
  2. Evenings, people exiting the station are going home - Focus on wealthier neighbourhoods
+   
+ **Heatmap of people exiting the top 15 stations by time of day**
+  
+ ![alt text](https://github.com/SanghamitraDutta/SanghamitraDutta.github.io/blob/master/images/Final.png "Logo Title Text 1") 
+ 
  
 
 
