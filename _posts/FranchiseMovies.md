@@ -1,6 +1,5 @@
-
 ---
-
+layout: post
 title: Project Franchise Movies Box Office Predicition
 ---
 *Data Science aiding Movie Investment Decisions*
