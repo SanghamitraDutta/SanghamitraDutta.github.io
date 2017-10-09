@@ -35,8 +35,7 @@ Scrapped the following websites:
 * Surprisngly the Franchise Sequence has a negative impact on Worldwide Gross. However, the interaction between Franchise Sequence & Widest Release   
 impacts worldwide Gross positively
 * Other important and obvious features were the Movie's Budget and Run Time
-* Interestingly the movies that the model underpredicted by 10% or more of their actual World Wide gross were mostly from Horror genre   
-and a few were cult movies like Indian Jones and the Temple of Doom. And what is even more interesting is that some of these horror flicks  are regardes as the most profitable movies of all time as these movies were made independently at extremely low budgets and later on boughtby big movie production houses.
+* Interestingly the movies that the model underpredicted by 10% or more of their actual World Wide gross were mostly from Horror genre and a few were cult movies like Indian Jones and the Temple of Doom. And what is even more interesting is that some of these horror flicks  are regardes as the most profitable movies of all time as these movies were made independently at extremely low budgets and later on boughtby big movie production houses.
 * On the other hand, the model over predicted a handful of movies that had a combination of extremely low budgets and very low widest release.
 * Although as per the model's prediction it udnderpredicted certain Genres don’t have a significant impact on predicting Worldwide Gross
 
