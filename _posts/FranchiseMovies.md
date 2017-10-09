@@ -1,9 +1,9 @@
 
 ---
-layout: post
+
 title: Project Franchise Movies Box Office Predicition
 ---
-*Use of Data Science to Inform Marketing Decisions*
+*Data Science aiding Movie Investment Decisions*
 ---
   
 
