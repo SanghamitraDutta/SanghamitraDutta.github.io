@@ -40,7 +40,7 @@ Scrapped the following websites:
 
  
 ### Next Steps:
-Acquire data on World Wide Gross for all the movies in a Franchise
+Acquire data on World Wide Gross for all the movies in a Franchise  
 Re-investigate the prediction basis Worldwide Gross of the previous movie in the Franchise
 
    
