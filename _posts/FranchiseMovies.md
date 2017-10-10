@@ -27,8 +27,7 @@ Scrapped the following websites:
 * Lasso Cross Validation
 
 ### Some Interesting Findings:
-* The model can predict 57% of the variance in WorldWide Gross.
-  * Adjusted r2 of 0.573
+* The model can predict 42.7% of the variance in WorldWide Gross.
   * Model was regularized and cross validated using Lasso Cross Validation
 * Franchise Sequence & interaction between Franchise Sequence & Widest Release are good predictors of Worldwide Gross
 * Surprisngly the Franchise Sequence has a negative impact on Worldwide Gross. However, the interaction between Franchise Sequence & Widest Release impacts worldwide Gross positively
