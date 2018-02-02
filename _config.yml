@@ -11,7 +11,10 @@ description: Data Science Explorations
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/28740020?s=400&u=6d9a57f0cbe56a695a22ee51b06fc22927233ea8&v=4
 
-theme: architect
+#theme: architect
+
+remote_theme: mmistakes / minimal-mistakes
+
 #
 # Flags below are optional
 #
