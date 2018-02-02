@@ -13,7 +13,8 @@ avatar: https://avatars2.githubusercontent.com/u/28740020?s=400&u=6d9a57f0cbe56a
 
 #theme: architect
 
-remote_theme: mmistakes / minimal-mistakes
+remote_theme: mmistakes / so-simple-theme
+
 
 #
 # Flags below are optional
